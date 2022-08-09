@@ -59,7 +59,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>guest-service</finalName>
+		<finalName>hackothon-service</finalName>
 	</build>
 
 </project>
